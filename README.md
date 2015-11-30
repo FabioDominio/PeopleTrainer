@@ -64,3 +64,5 @@ http://docs.opencv.org/3.0-beta/modules/ml/doc/support_vector_machines.html
 
 "dataset" indicates, instead, the dataset file name.
 
+The software returns a log file with the performed operations and the computed G*G confusion matrix with G the number of gesture classes. Each confusion matrix entry c(i,j) denotes the fraction (from 0 to 1) of gesture instances of class i assigned to class j. 
+
