@@ -26,7 +26,7 @@ People Trainer has been widely discussed and used in publications like:
 
 other publications, paper drafts and bibtex ready citations can be found at:
 
-http://www.fabiodominio.com/research.html
+www.fabiodominio.com/research
 
 Please cite them if you are using this software in your research. Thanks.
 
